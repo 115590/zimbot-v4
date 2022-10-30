@@ -26,7 +26,7 @@
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/115590/zimbot-v4)
+[![Deploy](https://github.com/115590/zimbot-v4)](https://github.com/115590/zimbot-v4)
 
 ## BUILD PACKS
 
